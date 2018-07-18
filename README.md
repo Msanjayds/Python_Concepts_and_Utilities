@@ -1,5 +1,5 @@
-               Python Tutorials
-===============================
+Python Basics
+=============
 
 Below Notebooks contain the examples on different python topics.
 ----------------------------------------------------------------

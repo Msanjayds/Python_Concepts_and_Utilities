@@ -19,7 +19,7 @@
 
 6.  **Regex.ipynb** : Regular Expressions examples.
 
- 
+ -----------------------------------
 
 > ## Python Utilities
 
@@ -29,3 +29,5 @@ files in a folder.
 
 
 2. **Weatherinfo Fetch.ipynb** :  Program to fetch the weather info from the yahoo weather API.
+
+-----------------------------------

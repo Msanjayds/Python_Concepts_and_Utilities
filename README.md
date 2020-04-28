@@ -1,9 +1,8 @@
 # Python Concepts & Utilties
 ------------------------------
 
-=======================
 > ## Python Concepts
-=======================
+
 
 1.  **Lists, Sets, Tuples, Disctionaries.ipynb:** Python basic Concepts.
 
@@ -20,9 +19,9 @@
 6.  **Regex.ipynb** : Regular Expressions examples.
 
  
-=======================
+
 > ## Python Utilities
-=======================
+
 
 1. **File Extension Change.py** : Program to Change the extension of a group of specific
 files in a folder.

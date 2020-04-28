@@ -1,10 +1,8 @@
-Python Basics
-=============
+# Python Concepts & Utilties
+==========================
 
-Below Notebooks contain the examples on different python topics.
-----------------------------------------------------------------
+> ## Python Concepts
 
- 
 
 1.  **Regex.ipynb** : Regular Expressions examples.
 
@@ -19,3 +17,10 @@ Below Notebooks contain the examples on different python topics.
 5.  **TryExcept BLocks.ipynb:** Try Except blocks in python for error handling.
 
  
+> ## Python Utilities
+
+1. **File Extension Change.py** : Program to Change the extension of a group of specific
+files in a folder.
+
+
+2. **Weatherinfo Fetch.ipynb** :  Program to fetch the weather info from the yahoo weather API.

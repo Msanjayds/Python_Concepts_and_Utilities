@@ -4,7 +4,7 @@
 > ## Python Concepts
 
 
-1.  **Regex.ipynb** : Regular Expressions examples.
+1.  **Lists, Sets, Tuples, Disctionaries.ipynb:** Python basic Concepts.
 
 2.  **Comprehensions.ipynb**: List,Dictionary and set comprehension examples.
 
@@ -16,6 +16,7 @@
 
 5.  **TryExcept BLocks.ipynb:** Try Except blocks in python for error handling.
 
+6.  **Regex.ipynb** : Regular Expressions examples.
  
 > ## Python Utilities
 

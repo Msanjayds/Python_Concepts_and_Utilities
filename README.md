@@ -1,5 +1,5 @@
 ------------------------------
-> # Python Concepts & Utilties
+> # Python Concepts & Utilities
 ------------------------------
 
 > ## Python Concepts

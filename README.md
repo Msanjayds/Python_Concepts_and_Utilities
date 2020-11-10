@@ -19,6 +19,8 @@
 
 6.  **Regex.ipynb** : Regular Expressions examples.
 
+7.  **Python Basics - A to Z.ipynbb** : Basic concepts of Python from A to Z.
+
  -----------------------------------
 
 > ## Python Utilities
